@@ -31,17 +31,9 @@
 | 1    | [斐波那契](https://mp.weixin.qq.com/s/LbfkgqhFCbKG5HXX3Vgb0w) | ![斐波那契.gif](http://ww1.sinaimg.cn/large/007s8HJUly1gkxa9hajd7g30mo0bv0tp.gif) |
 | 2    | [从尾到头打印链接](https://mp.weixin.qq.com/s/2MIIP-ES1XkAmD7VbS3FLQ) | ![](http://ww1.sinaimg.cn/large/007s8HJUly1gkx9avxvaog30ip0bhaan.gif) |
 | 3    | [二进制1的个数](https://mp.weixin.qq.com/s/9loFfrUNcDc_h1DE8UxmZA) | ![](http://ww1.sinaimg.cn/large/007s8HJUly1gkx9hou0pjg31hc0u0n0x.gif) |
-| 3    | [如何在二维数组中找到一个数？](https://mp.weixin.qq.com/s/REMcIIDeKTgC9960-rEgWg) | ![](http://ww1.sinaimg.cn/large/007s8HJUly1gkx9vmvpxlg30i30c1dhf.gif) |
-| 3    | [实现把字符串中的空格替换为“%20”](https://mp.weixin.qq.com/s/OUhRv49uYdWU2wpE1pDEzg) | ![替换空格.gif](http://ww1.sinaimg.cn/large/007s8HJUly1gkxa4jh40lg31hc0u0dqe.gif) |
-| 3    | [根据前序序列和中序序列重建二叉树](https://mp.weixin.qq.com/s/nJiIiRJXaDTFlsnMVbcnBQ) | ![14850956-4f1070ea113faa26.gif](http://ww1.sinaimg.cn/large/007s8HJUly1gkxa6m494wg31hc0u01kx.gif) |
-| 3    | 555 | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/vxa7f.gif) |
-| 3    | 555 | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/vxa7f.gif) |
-| 3    | 555 | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/vxa7f.gif) |
-| 3    | 555 | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/vxa7f.gif) |
-| 3    | 555 | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/vxa7f.gif) |
-| 3    | 555 | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/vxa7f.gif) |
-| 3    | 555 | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/vxa7f.gif) |
-| 3    | 555 | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/vxa7f.gif) |
-| 3    | 555 | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/vxa7f.gif) |
-| 3    | 555 | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/vxa7f.gif) |
-
+| 4    | [如何在二维数组中找到一个数？](https://mp.weixin.qq.com/s/REMcIIDeKTgC9960-rEgWg) | ![](http://ww1.sinaimg.cn/large/007s8HJUly1gkx9vmvpxlg30i30c1dhf.gif) |
+| 5    | [实现把字符串中的空格替换为“%20”](https://mp.weixin.qq.com/s/OUhRv49uYdWU2wpE1pDEzg) | ![替换空格.gif](http://ww1.sinaimg.cn/large/007s8HJUly1gkxa4jh40lg31hc0u0dqe.gif) |
+| 6    | [根据前序序列和中序序列重建二叉树](https://mp.weixin.qq.com/s/nJiIiRJXaDTFlsnMVbcnBQ) | ![14850956-4f1070ea113faa26.gif](http://ww1.sinaimg.cn/large/007s8HJUly1gkxa6m494wg31hc0u01kx.gif) |
+| 7    | 反转链表 | ![反转链表.gif](http://ww1.sinaimg.cn/large/007s8HJUly1gkxar8tgn8g30kn0awq6y.gif) |
+| 8    | 数组中重复的数字 | ![数组中重复的数字.gif](http://ww1.sinaimg.cn/large/007s8HJUly1gkxarv0pugg30kk09rgm9.gif) |
+| 8    | 数组中重复的数字 | ![数组中重复的数字.gif](http://ww1.sinaimg.cn/large/007s8HJUly1gkxarv0pugg30kk09rgm9.gif) |
