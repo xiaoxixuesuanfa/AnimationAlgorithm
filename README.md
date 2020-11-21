@@ -30,7 +30,7 @@
 | 0    | 哈哈 |                                                              |
 | 1    | 6666[](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/av47v.gif) |
 | 2    | [从尾到头打印链接](https://mp.weixin.qq.com/s/2MIIP-ES1XkAmD7VbS3FLQ) | ![](http://ww1.sinaimg.cn/large/007s8HJUly1gkx9avxvaog30ip0bhaan.gif) |
-| 3    | 555 | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/vxa7f.gif) |
+| 3    | [二进制1的个数](https://mp.weixin.qq.com/s/9loFfrUNcDc_h1DE8UxmZA) | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/vxa7f.gif) |
 | 3    | 555 | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/vxa7f.gif) |
 | 3    | 555 | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/vxa7f.gif) |
 | 3    | 555 | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/vxa7f.gif) |
